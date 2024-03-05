@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DevTools 2</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Wed, 06 Mar 2024 00:23:38 +0100</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description>
+              <![CDATA[
+                <ul>
+                  <li>Welcome in DevTools 2!</li>
+                </ul>
+              ]]>
+            </description>
+            <enclosure url="https://github.com/marcbuetti/DevTools2/releases/download/0.9/DevTools.dmg" length="13136949" type="application/octet-stream" sparkle:edSignature="P3mDURk4wCkh42OHdY4oQ1/CuBazLbGFWDfZZkTZLHwM6OJDLMox/GhEIb2hu/7TouCR8TyJcMy8GehM+FyYDA=="/>
+        </item>
+    </channel>
+</rss>
