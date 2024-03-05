@@ -3,19 +3,19 @@
     <channel>
         <title>DevTools 2</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Wed, 06 Mar 2024 00:23:38 +0100</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Wed, 06 Mar 2024 00:36:32 +0100</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <description>
               <![CDATA[
                 <ul>
-                  <li>Welcome in DevTools 2!</li>
+                  <li>Some Bug fixes.</li>
                 </ul>
               ]]>
             </description>
-            <enclosure url="https://github.com/marcbuetti/DevTools2/releases/download/0.9/DevTools.dmg" length="13136949" type="application/octet-stream" sparkle:edSignature="P3mDURk4wCkh42OHdY4oQ1/CuBazLbGFWDfZZkTZLHwM6OJDLMox/GhEIb2hu/7TouCR8TyJcMy8GehM+FyYDA=="/>
+            <enclosure url="https://github.com/marcbuetti/DevTools2/releases/download/1.0/DevTools.dmg" length="13136798" type="application/octet-stream" sparkle:edSignature="jIQ1uYKZ8A5peAhAH0Sv5MOQxPK/066K1NpiQ+C/7TNHKcc5vitiLX7lybhzlNUFO2d/LJ8ASI/ZNEjUrGMWCQ=="/>
         </item>
     </channel>
 </rss>
