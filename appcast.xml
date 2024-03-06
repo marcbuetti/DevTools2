@@ -8,13 +8,6 @@
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <description>
-              <![CDATA[
-                <ul>
-                  <li>Some Bug fixes.</li>
-                </ul>
-              ]]>
-            </description>
             <enclosure url="https://github.com/marcbuetti/DevTools2/releases/download/1.0/DevTools.dmg" length="13136798" type="application/octet-stream" sparkle:edSignature="jIQ1uYKZ8A5peAhAH0Sv5MOQxPK/066K1NpiQ+C/7TNHKcc5vitiLX7lybhzlNUFO2d/LJ8ASI/ZNEjUrGMWCQ=="/>
         </item>
     </channel>
