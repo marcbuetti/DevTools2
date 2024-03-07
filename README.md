@@ -13,7 +13,7 @@ DevTools 2 is a groundbreaking menu bar application for macOS, designed to enhan
 
 ## Installation Process
 
-1. Download the most recent version of DevTools 2 from our [GitHub repository](https://github.com/marcbuetti/DevTools/releases).
+1. Download the most recent version of DevTools 2 from our [GitHub repository](https://github.com/marcbuetti/DevTools2/releases).
 2. Open the downloaded file and move the DevTools 2 icon into your Applications folder.
 3. Start DevTools 2 from your Applications directory or use the Spotlight search for quick access.
 
