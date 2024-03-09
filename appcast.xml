@@ -3,12 +3,12 @@
     <channel>
         <title>DevTools 2</title>
         <item>
-            <title>1.3</title>
-            <pubDate>Sat, 09 Mar 2024 12:03:28 +0100</pubDate>
-            <sparkle:version>1.3</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <title>1.3.1</title>
+            <pubDate>Sat, 09 Mar 2024 12:38:42 +0100</pubDate>
+            <sparkle:version>1.3.1</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcbuetti/DevTools2/releases/download/1.3/DevTools.dmg" length="13136797" type="application/octet-stream" sparkle:edSignature="m2ZCMWPQq2jDiUR2v/ODvA8jlq9UA1S+u4XdbeANBvkU3HRSDuK8mRNjtWbMF8hvkSbeVdPlHkRqzoCypXYWAw=="/>
+            <enclosure url="https://github.com/marcbuetti/DevTools2/releases/download/1.3.1/DevTools.dmg" length="13260773" type="application/octet-stream" sparkle:edSignature="ewWh5f27q5UFeZ3Qv6IvGy7C7gQoqAjtTm5ZPmOErwwHkvXRZmD0ifzyqhXnX78MvRkjH41QAIZLcL5LtULUAQ=="/>
         </item>
     </channel>
 </rss>
